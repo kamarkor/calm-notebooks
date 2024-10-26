@@ -1,12 +1,1 @@
-# Coming Soon
-- Dask
-- Polars
-- Streamlit
-- Scikit-image
-- Optuna
-- NetworkX
-- TextBlob
-- Faker
-- Altair
-- Scrapy
-- Pytest
+This repo aims to discover some Python libraries, with explanations and hands-on examples.
